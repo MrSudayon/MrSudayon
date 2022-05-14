@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrSudayon
+- 👋 Hi, I’m Fernando Sudayon
 - 👀 I’m interested in developing websites, also would love to make games.
 - 🌱 I’m currently learning Information Technology that's all about web developing.
 - 💞️ I’m looking to collaborate on working with my Capstone Project.
