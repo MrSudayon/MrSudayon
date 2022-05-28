@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fernando Sudayon
-- 👀 I’m interested in developing websites, also would love to make games.
-- 🌱 I’m currently learning Information Technology that's all about web developing.
-- 📫 How to reach me ... via email sudayonfernando01@gmail.com or www.facebook.com/wolfkronee
+- 👀 I am interested in developing websites, also would love to make games.
+- 📫 Would love to make a collab, reach me out via email sudayonfernando01@gmail.com or www.facebook.com/wolfkronee
 
 <!---
 MrSudayon/MrSudayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
