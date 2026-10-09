@@ -1,6 +1,4 @@
 # Hi there, I'm Fernando👋
-**Developer · IT **
-
 I build things with code, break them, fix them, and then start three more projects before finishing the first one. 🧠⚡
 
 ## 📊 GitHub Stats
