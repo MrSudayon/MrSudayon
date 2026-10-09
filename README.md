@@ -39,28 +39,6 @@ I treat AI as a pair-programming buddy: great for brainstorming, debugging, and 
 - **Perhapssss**: Machine learning
 - My own behavioral patterns
 
-## 🤖 AI Tools I Use
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-I treat AI as a pair-programming buddy: great for brainstorming, debugging, and boilerplate, while I stay in charge of the architecture and the final call.
-
-## 🌱 Currently Learning
-
-
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [odoo-custom-module](https://github.com/your-username/odoo-custom-module) | Custom Odoo module with third-party API integration | Python, Odoo |
-| [opencart-store-tools](https://github.com/your-username/opencart-store-tools) | Extensions and fixes for an OpenCart 2.0 store | PHP, MySQL |
-| [auto-backup-scripts](https://github.com/your-username/auto-backup-scripts) | Cron-driven backup and security check scripts | Shell, Cron |
-| [adhd-project-1](https://github.com/your-username/adhd-project-1) | A quirky tool born from a 2 AM idea | JavaScript |
-
-
 ## 💬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrSudayon)
@@ -68,7 +46,7 @@ I treat AI as a pair-programming buddy: great for brainstorming, debugging, and 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudayon&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSudayon&layout=compact&theme=tokyonight)
 
 ---
