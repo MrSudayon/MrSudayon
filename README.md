@@ -4,6 +4,7 @@
 
 I build things with code, break them, fix them, and then start three more projects before finishing the first one. 🧠⚡
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MrSudayon&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ---
 
 ## 🔭 What I'm working on right now
