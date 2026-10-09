@@ -3,6 +3,7 @@
 I build things with code, break them, fix them, and then start three more projects before finishing the first one. 🧠⚡
 
 ## 📊 GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=MrSudayon&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudayon&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSudayon&layout=compact&theme=tokyonight)
@@ -23,14 +24,6 @@ I build things with code, break them, fix them, and then start three more projec
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![OpenCart](https://img.shields.io/badge/OpenCart_2.0-23A1D1?style=for-the-badge&logo=opencart&logoColor=white)
 
-## 🤖 AI Tools I Use
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-I treat AI as a pair-programming buddy: great for brainstorming, debugging, and boilerplate, while I stay in charge of the architecture and the final call.
-
 ## 🌱 Currently Learning
 
 - **ODOO**: Deeper ORM and modules architecture
@@ -39,7 +32,15 @@ I treat AI as a pair-programming buddy: great for brainstorming, debugging, and 
 - **Shell scripts** for server housekeeping, log rotation, and scheduled tasks
 - **Cybersecurity**: from detecting open ports to penetrating (legal lab env only🚓🚓🚓)
 - **Perhapssss**: Machine learning
-- My own behavioral patterns
+- My behavioral pattern
+
+## 🤖 AI Tools I Use
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+I treat AI as a pair-programming buddy: great for brainstorming, debugging, and boilerplate, while I stay in charge of the architecture and the final call.
 
 ## 💬 Let's Connect
 
