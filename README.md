@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-**Developer · Problem solver · Professional starter of side projects**
+**Developer · IT **
 
 I build things with code, break them, fix them, and then start three more projects before finishing the first one. 🧠⚡
 
@@ -9,7 +9,8 @@ I build things with code, break them, fix them, and then start three more projec
 ## 🔭 What I'm working on right now
 
 - 🏢 **Odoo**: customizing modules, building integrations, and taming business workflows
-- 🌀 **ADHD PROJECTS XD**: a growing pile of experiments, tools, and "I'll just try one thing" ideas
+- 🌀 **SIDE PROJECTS xD**: a growing pile of experiments, tools, and "I'll just try one thing" ideas
+- 🛹 **Skating**: working on it..
 
 ## 🛠️ Tech Stack
 
