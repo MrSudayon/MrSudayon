@@ -48,5 +48,3 @@ I treat AI as a pair-programming buddy: great for brainstorming, debugging, and 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrSudayon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudayonfernando01@gmail.com)
-
----
