@@ -60,25 +60,11 @@ I treat AI as a pair-programming buddy: great for brainstorming, debugging, and 
 | [auto-backup-scripts](https://github.com/your-username/auto-backup-scripts) | Cron-driven backup and security check scripts | Shell, Cron |
 | [adhd-project-1](https://github.com/your-username/adhd-project-1) | A quirky tool born from a 2 AM idea | JavaScript |
 
-## 🟩 Contribution Graph (totally real, trust me)
-
-```
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛⬛🟩⬛⬛⬛🟩⬛⬛🟩⬛⬛🟩🟩🟩⬛🟩🟩🟩⬛⬛🟩⬛⬛⬛🟩⬛⬛⬛🟩⬛⬛🟩⬛🟩⬛⬛
-⬛⬛🟩⬛⬛⬛🟩⬛🟩⬛🟩⬛⬛⬛🟩⬛⬛⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛⬛
-⬛⬛🟩⬛🟩⬛🟩⬛🟩🟩🟩⬛⬛🟩⬛⬛⬛🟩⬛⬛🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩🟩⬛⬛
-⬛⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛⬛⬛🟩⬛⬛⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛⬛
-⬛⬛⬛🟩⬛🟩⬛⬛🟩⬛🟩⬛🟩🟩🟩⬛🟩🟩🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-```
-
-*Less ⬛ 🟩 More*
 
 ## 💬 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrSudayon)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudayonfernando01@gmail.com)
 
 ## 📊 GitHub Stats
 
@@ -86,5 +72,3 @@ I treat AI as a pair-programming buddy: great for brainstorming, debugging, and 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ---
-
-⚡ *Fun fact: I have at least 7 browser tabs open for things I'll "get to later."*
