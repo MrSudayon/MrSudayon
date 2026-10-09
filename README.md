@@ -1,9 +1,8 @@
 # Hi there, I'm Fernando👋
-
 **Developer · IT **
+I build things with code, break them, fix them, and then start three more projects before finishing the first one. 🧠⚡
 
 ## 📊 GitHub Stats
-I build things with code, break them, fix them, and then start three more projects before finishing the first one. 🧠⚡
 [![GitHub Streak](https://streak-stats.demolab.com?user=MrSudayon&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudayon&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSudayon&layout=compact&theme=tokyonight)
