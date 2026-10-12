@@ -11,8 +11,6 @@
 ![Odoo.sh](https://img.shields.io/badge/Odoo.sh-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 
-## 📊 GitHub Stats
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=MrSudayon&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudayon&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSudayon&layout=compact&theme=tokyonight)
