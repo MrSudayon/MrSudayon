@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Odoo.sh](https://img.shields.io/badge/Odoo.sh-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![OpenCart](https://img.shields.io/badge/OpenCart_2.0-23A1D1?style=for-the-badge&logo=opencart&logoColor=white)
 
 
