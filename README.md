@@ -10,8 +10,8 @@
 
 ## 🔭 What I'm working on right now
 
-- 🏢 **Odoo**: customizing modules, building integrations, and taming business workflows (new and existing)
-- 🌀 **SIDE PROJECTS xD**: a growing pile of experiments, tools, and "I'll just try one thing" ideas
+- 🏢 **Odoo ERP**: customizing modules, building integrations, and taming business workflows (new and existing)
+- 🌀 **SIDE PROJ**: pile of experiments, tools, and unwanted ideas
 - 🛹 **Skating**: working on it..
 
 ## 🛠️ Tech Stack
