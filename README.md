@@ -1,5 +1,6 @@
 # waazzaaaaaaaaaaaaaaaaaaah
-I build things with code, break them, fix them, and then start three side projs before finishing the first one. ⚡⚡
+⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
 
 ## 📊 GitHub Stats
 
