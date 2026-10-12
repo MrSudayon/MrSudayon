@@ -1,20 +1,7 @@
 # waazzaaaaaaaaaaaaaaaaaaah
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MrSudayon&theme=vision-friendly-dark)](https://git.io/streak-stats)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudayon&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSudayon&layout=compact&theme=tokyonight)
-
-## 🔭 What I'm working on right now
-
-- 🏢 **Odoo ERP**: customizing modules, building integrations, and taming business workflows (new and existing)
-- 🌀 **SIDE PROJ**: pile of experiments, tools, and unwanted ideas
-- 🛹 **Skating**: working on it..
-
-## 🛠️ Tech Stack
+## 🛠️ Current stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,7 +9,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Odoo.sh](https://img.shields.io/badge/Odoo.sh-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![OpenCart](https://img.shields.io/badge/OpenCart_2.0-23A1D1?style=for-the-badge&logo=opencart&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MrSudayon&theme=vision-friendly-dark)](https://git.io/streak-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudayon&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSudayon&layout=compact&theme=tokyonight)
+
+
+## 🔭 What I'm working on right now
+
+- 🏢 **Odoo ERP**: customizing modules, building integrations, and taming business workflows (new and existing)
+- 🌀 **SIDE PROJ**: pile of experiments, tools, and unwanted ideas
+- 🛹 **Skating**: working on it..
 
 
 ## 🌱 Currently Learning
