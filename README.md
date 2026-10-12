@@ -26,12 +26,12 @@
 ## 🌱 Currently Learning
 
 - **ODOO**: Deeper ORM and modules architecture
-- **Better software engineering**: cleaner code, solid structure, and adapting AI into the workflow 😎
-- **Cron jobs**: getting most out of scheduling and automated b-ups, security checks, and routine maintenance
+- **Better software engineering**: cleaner code, solid structure, and adapting AI into my workflow
+- **Cron jobs**: getting most out of scheduling and automated b-ups, security check, and routine maintenance
 - **Shell scripts** for server housekeeping, log rotation, and scheduled tasks
-- **Cybersecurity**: from detecting open ports to penetrating (legal lab env only🚓🚓🚓)
-- **Perhapssss**: Machine learning
-- My behavioral pattern
+- **Cybersecurity**: from detecting open ports to penetrating (test env only🚓🚓🚓)
+- **Perhapssss** machine learning
+- My actions xd
   
 
 ## 💬 Let's Connect
