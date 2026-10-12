@@ -18,9 +18,9 @@
 
 ## 🔭 What I'm working on right now
 
-- 🏢 **Odoo ERP**: customizing modules, building integrations, and taming business workflows (new and existing)
-- 🌀 **SIDE PROJ**: pile of experiments, tools, and unwanted ideas
-- 🛹 **Skating**: working on it..
+- 🏢 **Odoo ERP**: customizing modules, building integrations, and taming business workflows
+- 🌀 **SIDE PROJ**: pile of experiments, interactive websitez, kewl system features, and unwanted ideas
+- 🛹 working on it. 
 
 
 ## 🌱 Currently Learning
