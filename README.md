@@ -18,7 +18,7 @@
 ## 🔭 What I'm working on right now
 
 - 🏢 **Odoo ERP**: customizing modules, building integrations, and taming business workflows
-- 🌀 **SIDE PROJ**: pile of experiments, interactive websitez, kewl system features, and unwanted ideas
+- 🌀 **SIDE PROJ**: pile of experiments, interactive websitez, kewl features, and unwanted ideas
 - 🛹 working on it. 
 
 
@@ -29,8 +29,7 @@
 - **Cron jobs**: getting most out of scheduling and automated b-ups, security check, and routine maintenance
 - **Shell scripts** for server housekeeping, log rotation, and scheduled tasks
 - **Cybersecurity**: from detecting open ports to penetrating (test env only🚓🚓🚓)
-- **Perhapssss** machine learning
-- My actions xd
+- mi acciones 
   
 
 ## 💬 Let's Connect
