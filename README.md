@@ -1,16 +1,40 @@
-## HEY 👋 ITS STILL 🛠️🛠️🛠️🛠️
+# waazzaaaaaaaaaaaaaaaaaaah
+⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-<!--
-**MrSudayon/MrSudayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Current Stack
 
-Here are some ideas to get you started:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Odoo.sh](https://img.shields.io/badge/Odoo.sh-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MrSudayon&theme=vision-friendly-dark)](https://git.io/streak-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudayon&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSudayon&layout=compact&theme=tokyonight)
+
+
+## 🔭 What I'm working on right now
+
+- 🏢 **Odoo ERP**: customizing modules, building integrations, and taming business workflows
+- 🌀 **SIDE PROJ**: pile of experiments, interactive websitez, kewl system features, and unwanted ideas
+- 🛹 working on it. 
+
+
+## 🌱 Currently Learning
+
+- **ODOO**: Deeper ORM and modules architecture
+- **Better software engineering**: cleaner code, solid structure, and adapting AI into my workflow
+- **Cron jobs**: getting most out of scheduling and automated b-ups, security check, and routine maintenance
+- **Shell scripts** for server housekeeping, log rotation, and scheduled tasks
+- **Cybersecurity**: from detecting open ports to penetrating (test env only🚓🚓🚓)
+- **Perhapssss** machine learning
+- My actions xd
+  
+
+## 💬 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrSudayon)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudayonfernando01@gmail.com)
