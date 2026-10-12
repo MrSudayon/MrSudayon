@@ -1,10 +1,6 @@
 # waazzaaaaaaaaaaaaaaaaaaah
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-<a href="https://github.com/MrSudayon/MrSudayon/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MrSudayon/MrSudayon" />
-</a>
-
 
 ## 🛠️ Current Stack
 
