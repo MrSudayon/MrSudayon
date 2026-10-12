@@ -2,7 +2,7 @@
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 <a href="https://github.com/MrSudayon">
-  <img src="https://contrib.rocks" />
+  <img src="https://contrib.rocks/MrSudayon" />
 </a>
 
 ## 🛠️ Current Stack
