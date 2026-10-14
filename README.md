@@ -1,8 +1,5 @@
 # waazzaaaaaaaaaaaaaaaaaaah
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡
-
-## 🛠️ Current Stack
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,14 +9,12 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MrSudayon&theme=vision-friendly-dark)](https://git.io/streak-stats)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudayon&show_icons=true&theme=tokyonight)
-
 
 ## 🔭 What I'm working on right now
 
-- 🏢 **Odoo ERP**: customizing modules, building integrations, and taming business workflows
-- 🌀 **SIDE PROJ**: pile of experiments, interactive websitez, kewl features, and unwanted ideas
-- 🛹 working on it. 
+- 🏢 **ODOO SH**: customizing modules, building integrations, and taming business workflows
+- 🌀 **SIDE PROJ**: pile of experiments, interactive websitez, n kewl feats
+- 🛹.
 
 
 ## 🌱 Currently Learning
