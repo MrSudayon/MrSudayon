@@ -5,7 +5,7 @@
 
 ## 🔭 What I'm working on right now
 
-~ 🏢 **ODOO SH**: customizing modules, building integrations, and taming business workflows
+- 🏢 **ODOO SH**: customizing modules, building integrations, and taming business workflows
 - 🌀 **SIDE PROJ**: pile of experiments, interactive websitez, n kewl feats
 - 🛹.
   
