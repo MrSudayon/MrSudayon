@@ -22,7 +22,7 @@
 - **Better software engineering**: cleaner code, solid structure, and adapting AI into my workflow
 - **Cron jobs**: getting most out of scheduling and automated b-ups, security check, and routine maintenance
 - **Shell scripts** for server housekeeping, log rotation, and scheduled tasks
-- **Cybersecurity**: from detecting open ports to penetrating (test env only🚓🚓🚓)
+- **Pen test**: from detecting open ports to penetrating (test env only🚓🚓🚓)
 - mi acciones 
   
 
