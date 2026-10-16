@@ -1,7 +1,7 @@
 # waazzaaaaaaaaaaaaaaaaaaah
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MrSudayon&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=misterSu2g&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 ## 🔭 What I'm working on right now
 
